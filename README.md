@@ -1,7 +1,7 @@
 Hi 👋 My name is Rijal
 ======================
 
-Artificial Intellegence and Data Science Enthusiast
+Artificial Intellegence Enthusiast
 ---------------------------------------------------
 
 I enjoy learning all about artificial intelligence, machine learning and data science, for now I am working and learning using Kaggle and Google Colab, I am a final year vocational school student, Rnov24 is my in-game name R for Rijal and nov 24 it's my birthday, I use that name because my name is just Rijal and it's already used
