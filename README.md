@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rijal</h1>
 <h3 align="center">AI/ML and Math Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rnov24&label=Profile%20views&color=0e75b6&style=flat" alt="rnov24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnov24" alt="rnov24" /></a> </p>
-
 - 🌱 I’m currently learning **AI and ML**
 
 - 📫 How to reach me **rrrijal24@gmail.com**
@@ -25,8 +21,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rijal24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rijal24" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnov24&show_icons=true&locale=en&layout=compact" alt="rnov24" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnov24&show_icons=true&locale=en" alt="rnov24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnov24&" alt="rnov24" /></p>
