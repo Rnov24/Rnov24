@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
 
+concurrency:
+  group: waka-readme-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -14,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Update WakaTime stats in README
         uses: athul/waka-readme@v0.3.0
@@ -31,8 +37,16 @@ jobs:
         run: |
           git config --global user.name "rnovbot"
           git config --global user.email "rnov2411@gmail.com"
+          # Rebase onto remote to avoid non-fast-forward
+          git fetch origin main
+          git rebase origin/main || (echo "Rebase failed, aborting" && git rebase --abort && exit 1)
+          # Only commit and push if README has changes
+          if git diff --quiet -- README.md; then
+            echo "No changes to README.md; skipping commit and push"
+            exit 0
+          fi
           git add README.md
-          git commit -m "auto: update readme" || echo "No changes to commit"
-          git push
+          git commit -m "auto: update readme with WakaTime stats"
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
