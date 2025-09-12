@@ -22,4 +22,10 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 04 September 2025 - To: 11 September 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
