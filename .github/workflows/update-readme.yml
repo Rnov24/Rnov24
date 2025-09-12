@@ -1,0 +1,38 @@
+name: Update README with WakaTime
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update WakaTime stats in README
+        uses: athul/waka-readme@v0.3.0
+        with:
+          WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 5
+          BLOCKS: ░▒▓█
+          STOP_AT_OTHER: true
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "rnovbot"
+          git config --global user.email "rnov2411@gmail.com"
+          git add README.md
+          git commit -m "auto: update readme" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
