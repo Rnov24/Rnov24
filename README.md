@@ -23,10 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-YAML       14 mins         ████████████████████░░░░░   79.55 %
-Markdown   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+YAML       14 mins         ██████████████████▓░░░░░░   74.03 %
+Markdown   5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
 ```
 
 <!--END_SECTION:waka-->
