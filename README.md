@@ -23,12 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Python     3 hrs 35 mins   ████████████████████▒░░░░   81.40 %
-Markdown   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-YAML       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python     3 hrs 35 mins   ██████████████████████░░░   87.34 %
+Markdown   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
