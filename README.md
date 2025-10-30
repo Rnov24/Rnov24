@@ -23,10 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 28 October 2025
+From: 22 October 2025 - To: 29 October 2025
 
-Python    1 hr 52 mins    ██████████████▒░░░░░░░░░░   57.18 %
-Nushell   1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.82 %
+Python    2 hrs 4 mins    ███████████████░░░░░░░░░░   59.50 %
+Nushell   1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   40.50 %
 ```
 
 <!--END_SECTION:waka-->
