@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2025 - To: 03 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Python       2 hrs 38 mins   ███████████████████▒░░░░░   77.32 %
-Nushell      44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       41 mins         ███████████████████████▓░   94.72 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
