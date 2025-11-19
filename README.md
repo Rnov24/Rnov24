@@ -56,14 +56,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnov24&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="Rijal's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnov24&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Rijal's languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rnov24&theme=nord&show_icons=true&hide_border=true&count_private=true" height="160px" alt="Rijal's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnov24&layout=compact&theme=nord&hide_border=true" height="160px" alt="Rijal's languages" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnov24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 
 ---
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass" width="25" height="25" /> Weekly Coding Status
@@ -80,7 +75,7 @@ Java     20 mins         ████████████▒░░░░░�
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="25" height="25" /> Quick Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="25" height="25" /> Total Visitor
 
 <div align="center">
   <img src="https://count.getloli.com/@:rnov24?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
