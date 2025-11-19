@@ -2,7 +2,7 @@
   <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="40" height="40" /> Hi there, I'm Rijal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
   
   <p align="center">
-    <img src="./working.gif" alt="working.gif" width="600px" />
+    <img src="./working.gif" alt="working.gif" width="400px" />
   </p>
   
 </div>
