@@ -65,10 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-Python   20 mins         ████████████▓░░░░░░░░░░░░   50.53 %
-Java     20 mins         ████████████▒░░░░░░░░░░░░   49.47 %
+Markdown   30 mins         ██████████▓░░░░░░░░░░░░░░   42.09 %
+Python     20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Java       20 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
 ```
 
 <!--END_SECTION:waka-->
