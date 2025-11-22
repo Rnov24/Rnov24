@@ -65,12 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Markdown   1 hr 12 mins    ███████████████░░░░░░░░░░   59.45 %
-Python     20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Java       20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-JSON       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Markdown   1 hr 12 mins    ██████████████████░░░░░░░   71.42 %
+Python     20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+JSON       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
