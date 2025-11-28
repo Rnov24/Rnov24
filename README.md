@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-Bash         2 hrs 44 mins   ███████████░░░░░░░░░░░░░░   43.69 %
-Markdown     54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-JSON         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-MDX          36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-TypeScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Bash         2 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.49 %
+MDX          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+TypeScript   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Python       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
