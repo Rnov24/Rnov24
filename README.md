@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-JavaScript   2 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.91 %
-JSON         2 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   31.66 %
-Python       48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-YAML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-TOML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Python       48 mins         █████████▓░░░░░░░░░░░░░░░   38.26 %
+YAML         33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+JSON         17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+JavaScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+TOML         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
