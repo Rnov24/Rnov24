@@ -65,11 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Python     39 mins         ███████████████████████▓░   94.43 %
-Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
