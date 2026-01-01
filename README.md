@@ -65,9 +65,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Markdown   2 mins          █████████████████████████   100.00 %
+Python     47 mins         ██████████████▓░░░░░░░░░░   58.81 %
+JSON       14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Markdown   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+CSV        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
