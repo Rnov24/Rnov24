@@ -65,12 +65,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 26 January 2026
+From: 20 January 2026 - To: 27 January 2026
 
-Python     22 mins         █████████████████████▒░░░   84.83 %
-Text       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python     22 mins         █████████████▓░░░░░░░░░░░   54.24 %
+Markdown   15 mins         █████████▒░░░░░░░░░░░░░░░   36.85 %
+Text       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
