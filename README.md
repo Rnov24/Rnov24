@@ -65,12 +65,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-Python     7 hrs 30 mins   █████████████████████░░░░   84.39 %
-Markdown   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-TeX        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Other      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Python     7 hrs 15 mins   ██████████████████▓░░░░░░   75.14 %
+TeX        1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Markdown   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Other      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
