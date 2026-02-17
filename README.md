@@ -65,10 +65,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-TeX        56 mins         ███████████████████████▒░   93.66 %
-Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+TypeScript   11 mins         ██████████▒░░░░░░░░░░░░░░   41.02 %
+XML          9 mins          █████████░░░░░░░░░░░░░░░░   35.85 %
+HTML         5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
