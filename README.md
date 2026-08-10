@@ -65,10 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Markdown   3 hrs 51 mins   ███████████████████████░░   92.00 %
-CSS        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Markdown   3 hrs 41 mins   ███████████████████████░░   91.67 %
+CSS        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
