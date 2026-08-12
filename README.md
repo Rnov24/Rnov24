@@ -65,11 +65,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-Markdown   3 hrs 40 mins   ███████████████████████▒░   93.39 %
-CSS        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown   3 hrs 20 mins   ██████████████████████▓░░   90.63 %
+CSS        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+TeX        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
