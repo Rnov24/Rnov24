@@ -65,12 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
-TeX        1 hr 13 mins    ███████████▒░░░░░░░░░░░░░   44.84 %
-Python     1 hr 9 mins     ██████████▓░░░░░░░░░░░░░░   42.69 %
-Markdown   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python   1 hr 9 mins     █████████████▒░░░░░░░░░░░   53.07 %
+TeX      1 hr 1 min      ███████████▓░░░░░░░░░░░░░   46.93 %
 ```
 
 <!--END_SECTION:waka-->
